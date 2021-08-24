@@ -1,0 +1,64 @@
+2021-08-24 16:44:15,348 - Load properties file:iselenium.properties
+2021-08-24 16:44:15,361 - C:\Users\lulu\iselenium.properties (系统找不到指定的文件。)
+2021-08-24 16:44:15,364 - Load config file fail, please check C:\Users\lulu to confirm if the iselenium.properties file exist!
+2021-08-24 16:44:15,365 - Load webdriver path
+2021-08-24 16:44:15,365 - firefoxPath = null
+2021-08-24 16:44:15,366 - chromePath = null
+2021-08-24 16:44:15,367 - Current browser is chrome
+2021-08-24 16:44:15,373 - Automation test  finish!
+2021-08-24 16:44:15,386 - Load properties file:iselenium.properties
+2021-08-24 16:44:15,387 - C:\Users\lulu\iselenium.properties (系统找不到指定的文件。)
+2021-08-24 16:44:15,388 - Load config file fail, please check C:\Users\lulu to confirm if the iselenium.properties file exist!
+2021-08-24 16:44:15,388 - Load webdriver path
+2021-08-24 16:44:15,388 - firefoxPath = null
+2021-08-24 16:44:15,389 - chromePath = null
+2021-08-24 16:44:15,389 - Current browser is chrome
+2021-08-24 16:44:15,389 - Automation test  finish!
+2021-08-24 16:47:22,746 - Load properties file:iselenium.properties
+2021-08-24 16:47:22,749 - D:\%e4%bb%a3%e7%a0%81\20210819\iSelenium\target\test-classes\iselenium.properties (系统找不到指定的路径。)
+2021-08-24 16:47:22,755 - Load config file fail, please check to confirm if the iselenium.properties file exist!
+2021-08-24 16:47:22,755 - Load webdriver path
+2021-08-24 16:47:22,755 - firefoxPath = null
+2021-08-24 16:47:22,756 - chromePath = null
+2021-08-24 16:47:22,758 - Current browser is chrome
+2021-08-24 16:47:22,761 - Automation test  finish!
+2021-08-24 16:47:22,776 - Load properties file:iselenium.properties
+2021-08-24 16:47:22,777 - D:\%e4%bb%a3%e7%a0%81\20210819\iSelenium\target\test-classes\iselenium.properties (系统找不到指定的路径。)
+2021-08-24 16:47:22,777 - Load config file fail, please check to confirm if the iselenium.properties file exist!
+2021-08-24 16:47:22,777 - Load webdriver path
+2021-08-24 16:47:22,777 - firefoxPath = null
+2021-08-24 16:47:22,778 - chromePath = null
+2021-08-24 16:47:22,778 - Current browser is chrome
+2021-08-24 16:47:22,778 - Automation test  finish!
+2021-08-24 16:51:06,639 - Load properties file:iselenium.properties
+2021-08-24 16:51:06,643 - Load webdriver path
+2021-08-24 16:51:06,644 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2021-08-24 16:51:06,644 - chromePath = E:\python3\Scripts\chromedriver.exe
+2021-08-24 16:51:06,645 - Current browser is chrome
+2021-08-24 16:51:09,150 - Automation test  finish!
+2021-08-24 16:51:09,164 - Load properties file:iselenium.properties
+2021-08-24 16:51:09,165 - Load webdriver path
+2021-08-24 16:51:09,166 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2021-08-24 16:51:09,166 - chromePath = E:\python3\Scripts\chromedriver.exe
+2021-08-24 16:51:09,166 - Current browser is chrome
+2021-08-24 16:51:10,873 - Automation test  finish!
+2021-08-24 16:55:15,519 - Load properties file:iselenium.properties
+2021-08-24 16:55:15,522 - Load webdriver path
+2021-08-24 16:55:15,523 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2021-08-24 16:55:15,523 - chromePath = E:\adb\chromedriver.exe
+2021-08-24 16:55:15,525 - Current browser is chrome
+2021-08-24 16:55:20,421 - Start the automation test: Baidu search UI automation test.
+2021-08-24 16:55:20,421 - Open the www.baidu.com
+2021-08-24 16:55:27,709 - Search text: 今日头条
+2021-08-24 16:55:33,775 - Click the search button.
+2021-08-24 16:55:38,804 - Automation test Baidu search UI automation test. finish!
+2021-08-24 16:55:39,546 - Load properties file:iselenium.properties
+2021-08-24 16:55:39,547 - Load webdriver path
+2021-08-24 16:55:39,548 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2021-08-24 16:55:39,549 - chromePath = E:\adb\chromedriver.exe
+2021-08-24 16:55:39,549 - Current browser is chrome
+2021-08-24 16:55:42,752 - Start the automation test: Baidu search UI automation test.
+2021-08-24 16:55:42,754 - Open the www.baidu.com
+2021-08-24 16:55:50,031 - Search text: 王者荣耀
+2021-08-24 16:55:56,140 - Click the search button.
+2021-08-24 16:56:01,165 - Automation test Baidu search UI automation test. finish!
